@@ -89,8 +89,8 @@ Again, where you draw the line is up to you. We welcome you coming and chatting 
 Regardless, you should be checking Unity documentation regularly. Throughout this unit, most of the programming challenges you'll face can be solved via the use of the Unity documentation. As a warm-up activity, start at the Unity documentation home page: https://docs.unity3d.com/ScriptReference/ And see if you can find the method that lets you set the parent of a gameObject in Unity.
 
 <details>
-  <summary>Here's the answer!</summary>
-  `SetParent()`, which is a public method on the Transform class, taking another transform and a bool as its parameters. You can find out more here: [https://docs.unity3d.com/ScriptReference/Transform.SetParent.html](https://docs.unity3d.com/ScriptReference/Transform.SetParent.html).
+  <summary>Psst! Click here for the answer!</summary>
+  SetParent(), which is a public method on the Transform class, taking another transform and a bool as its parameters. You can find out more here: [https://docs.unity3d.com/ScriptReference/Transform.SetParent.html](https://docs.unity3d.com/ScriptReference/Transform.SetParent.html).
 </details>
 
 Getting familiar with navigating and researching using the Unity docs is going to be a great skill for you to develop, whether you intend to stick with Unity or not.
