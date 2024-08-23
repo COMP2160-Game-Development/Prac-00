@@ -94,7 +94,7 @@ More recently, however, the term "IntelliSense" has been used by Microsoft to al
 Again, where you draw the line is up to you. We welcome you coming and chat to us for advise on this. In general, we believe that the use of extensions and plug-ins that allow you to learn better are great, but those that make it so you don't have to learn (like writing your code for you) are only going to hurt you in the long run. Make the decision that best suits you, your learning journey and the kind of legacy you want to leave as a game developer.
 
 ## Documentation
-Regardless, you should be checking Unity documentation regularly. Throughout this unit, most of the programming challenges you'll face can be solved via the use of the Unity documentation. As a warm-up activity, start at the Unity documentation home page ([https://docs.unity3d.com/ScriptReference/])(https://docs.unity3d.com/ScriptReference/) and see if you can find the method that lets you set the parent of a Transform in Unity.
+Regardless, you should be checking Unity documentation regularly. Throughout this unit, most of the programming challenges you'll face can be solved via the use of the Unity documentation. As a warm-up activity, start at the Unity documentation home page (https://docs.unity3d.com/ScriptReference/) and see if you can find the method that lets you set the parent of a Transform in Unity.
 
 <details>
   <summary>Psst! Click here for the answer!</summary>
