@@ -56,12 +56,12 @@ To do so, press the "Installs" button on the left side of Unity Hub, then press 
 On your own device, you will need to navigate to wherever you have installed your version of Unity. On the lab PCs, this will be:
 
 ```
-C:/ > Program Files > Unity > Hub > Editor > 2022.3.37f1 > Editor
+C:/ > Program Files > Unity > Hub > Editor > 6000.0.53f1 > Editor
 ```
 
 You then want to find the application named "Unity". Click on it once and then press "Select Editor". You should now see this version of Unity appear in your list of Installs in Unity Hub.
 
-To set the editor version of a Unity project, head back to the "Projects" panel and click on the corresponding "Editor Version" cell, selecting the version you want to switch use. Please note that all practicals for this unit are set to 2022.3.37f1, and this is the version you should make sure you are running for each project.
+To set the editor version of a Unity project, head back to the "Projects" panel and click on the corresponding "Editor Version" cell, selecting the version you want to switch use. Please note that all practicals for this unit are set to 6000.0.53f1, and this is the version you should make sure you are running for each project.
 
 ![An image of Unity Hub's projects section.](images/SetEditor.png)
 -------------------------
